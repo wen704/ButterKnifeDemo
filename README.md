@@ -1,7 +1,5 @@
 # 注解器使用,小型 ButterKnife
-[TOC]
-
-源码中有大量注释供参考
+## 源码中有大量注释供参考
 ### 创建 Java Library, 分别为 `annotation` 和 `complier`
 >添加 Java Library 下 build.gradle 编码
 
